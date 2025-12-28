@@ -101,4 +101,4 @@ All models were **quantized and deployed on ESP32** using Edge AI techniques.
 
 ---
 
-## 📂 Repository Structure
+
