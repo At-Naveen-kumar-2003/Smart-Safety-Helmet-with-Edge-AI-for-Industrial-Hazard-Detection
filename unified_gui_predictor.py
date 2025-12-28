@@ -1,9 +1,4 @@
-# ===============================================================
-# SMART SAFETY ANALYZER (v17)
-# - 12-hour Time Picker
-# - Email Alert + Confusion Matrix + PDF Export (Times New Roman)
-# - PDF Button next to Confusion Matrix
-# ===============================================================
+
 
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
@@ -341,3 +336,4 @@ output_text = tk.Text(root, height=26, width=120, font=("Consolas", 11))
 output_text.pack(pady=8, padx=20, fill="both", expand=True)
 
 root.mainloop()
+
